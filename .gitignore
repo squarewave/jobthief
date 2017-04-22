@@ -19,6 +19,7 @@
 *.so
 *.so.*
 *.dylib
+*.ilk
 
 # Executables
 *.exe
@@ -31,3 +32,8 @@
 # Debug files
 *.dSYM/
 *.su
+*.pdb
+
+# Editor-specific files
+*.sublime-*
+.vs/*
